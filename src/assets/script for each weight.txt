@@ -1,0 +1,17 @@
+ABAIXO DO PESO
+ABAIXO DO PESO (abaixo de 18.5): Você está na categoria abaixo do peso, para ajudar a melhorar sua situação, é importante consultar um médico para avaliar a causa do baixo peso e receber orientações nutricionais e médicas adequadas. Você pode consumir alimentos ricos em nutrientes e calorias, como frutas secas, nozes e sementes, abacate, azeite de oliva, entre outros, e fazer exercícios de força para aumentar a massa muscular e melhorar a saúde óssea.
+
+PESO NORMAL
+PESO NORMAL (entre 18.5 e 24.9): Você tem um peso saudável para sua altura, o que significa que corre menor risco de desenvolver doenças crônicas. Para manter-se assim, é importante manter um estilo de vida ativo, praticando atividades físicas regularmente, ter uma alimentação saudável e equilibrada, com variedade de nutrientes e moderação de alimentos ricos em gordura e açúcar, e controlar o estresse e buscar hábitos saudáveis para a saúde mental, como meditação e sono adequado.
+
+SOBREPESO
+SOBREPESO (entre 25 e 29.9): Você está na categoria de sobrepeso, o que significa que tem um excesso de peso que pode aumentar o risco de desenvolver doenças como diabetes, hipertensão e problemas cardíacos. Para ajudar a melhorar sua situação, é importante adotar uma alimentação saudável, com redução de calorias e aumento de nutrientes, praticar atividades físicas regulares e de intensidade moderada a vigorosa, como caminhada, corrida, natação, entre outros, e buscar orientação médica para identificar fatores de risco e receber tratamentos adequados, se necessário.
+
+OBESIDADE GRAU I
+OBESIDADE GRAU I (entre 30 e 34.9): Você está na categoria de obesidade grau I, o que significa que tem um excesso de peso significativo que aumenta consideravelmente o risco de doenças crônicas. Para ajudar a melhorar sua situação, é importante buscar orientação médica para avaliar o risco de doenças crônicas e receber tratamentos adequados, se necessário, reduzir o consumo de alimentos processados e ricos em gordura e açúcar e praticar atividades físicas regulares e de intensidade moderada a vigorosa, com orientação de um profissional de educação física.
+
+OBESIDADE GRAU II
+OBESIDADE GRAU II (entre 35 e 39.9): Você está na categoria de obesidade grau II, o que significa que tem um excesso de peso muito elevado que aumenta consideravelmente o risco de doenças crônicas e pode comprometer sua qualidade de vida. Para ajudar a melhorar sua situação, é importante buscar orientação médica para avaliar o risco de doenças crônicas e receber tratamentos adequados, se necessário, adotar um plano de alimentação saudável e equilibrado, com moderação de alimentos ricos em gordura e açúcar
+
+OBESIDADE GRAU III
+OBESIDADE GRAU III (acima de 40): Você está na categoria de obesidade grau III, o que significa que está muito acima do peso. Aumenta consideravelmente o risco de doenças crônicas e muitas outras. A obesidade mórbida também pode limitar sua capacidade de realizar atividades diárias, aumentando o risco de depressão e outras condições de saúde mental. Para ajudar a melhorar sua situação, é importante buscar orientação médica. Além disso, é importante adotar um plano de alimentação saudável e equilibrado, com moderação de alimentos ricos em gordura e açúcar, praticar atividades físicas com orientação de um profissional de educação física e, em casos selecionados, considerar tratamentos de suporte, como terapia comportamental, para ajudar a modificar comportamentos alimentares e de estilo de vida.

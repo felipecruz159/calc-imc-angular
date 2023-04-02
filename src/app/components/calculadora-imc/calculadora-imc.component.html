@@ -1,0 +1,36 @@
+<div id="main-container" class="container-lg bg-light">
+<p class="text-center" style="color:red">{{errorMessage}}</p>
+  <div class="row pt-3 pb-4">
+    <div id="forms" class="col-lg-6 pb-2 border-end border-success-subtle">
+      <h5 id="title" class="text-center">Calculadora IMC</h5>
+
+      <div id="inputs" class="row pb-4">
+        <div class="col-6 col-lg-12">
+          <label for="weight" class="fw-semibold mt-4">Peso</label>
+          <input type="number" class="form-control" name="weight" [(ngModel)]="weight" placeholder="0">
+        </div>
+
+        <div class="col-6 col-lg-12">
+          <label for="height" class="fw-semibold mt-4">Altura</label>
+          <input type="number" class="form-control" name="height" [(ngModel)]="height" placeholder="0">
+        </div>
+
+        <button type="button" class="m-auto mt-4 text-light fw-bolder text-uppercase" (click)="verifyInput()">Calcular</button>
+      </div>
+
+    </div>
+    <div id="result" class="col-lg-6 border-top pt-3 pb-2">
+      <h5 class="text-center">Resultado</h5>
+      <div class="row" [ngStyle]="{'visibility': visibility}">
+        <div id="image" class="mt-3 col-6 col-md-3 col-lg-3">
+          <h6 class="text-center fw-semibold" [ngClass]="bmiTypeColor">IMC: {{this.bmiString}}</h6>
+          <img src="{{images[i]}}" class="img-fluid" alt="{{imageDescription[i]}}">
+        </div>
+        <div id="text-result" class="col-12 mt-3 col-lg-9">
+          <h5 [ngClass]="bmiTypeColor" class="fw-semibold">{{title[i]}}</h5>
+          <p>{{description[i]}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --main-color: #23998e;
+    --second-color: #342E37;
+    --main-hover: #1c7a73;
+
+    /* BMI COLORS */
+    --underweight: #00A8AC;
+    --normal: #009C00;
+    --overweight: #FFB100;
+    --grade1-obesity: #FF6700;
+    --grade2-obesity: #FF2318;
+    --grade3-obesity: #FF2318;
+}
